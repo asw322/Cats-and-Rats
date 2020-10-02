@@ -1,0 +1,1 @@
+This is a simple personal project I make to demonstrate a cat and mouse concept. It uses data structures, class inheritance, methold overloading and method overriding. There is a board similar to a chess board and both Cat and Rats have different purposes and different properties.
